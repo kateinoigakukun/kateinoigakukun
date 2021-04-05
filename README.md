@@ -1,4 +1,21 @@
-### Hi there 👋
+
+- :student: Undergraduate student - Computer Science and Engineering
+- :man_technologist: OSS contributor - [Swift](https://github.com/apple/swift), [LLVM](http://llvm.org/) and etc.
+- :wrench: Co-maintainer of [SwiftWasm](http://github.com/swiftwasm/)
+
+
+## Interests
+
+- Swift Language
+- iOS application
+- WebAssembly
+- Compiler
+
+
+## Contact
+
+- [Twitter: @kateinoigakukun](http://twitter.com/kateinoigakukun)
+- [LinkedIn](https://www.linkedin.com/in/kateinoigakukun)
 
 <!--
 **kateinoigakukun/kateinoigakukun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
