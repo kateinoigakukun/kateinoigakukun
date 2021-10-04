@@ -1,5 +1,6 @@
 
 - :student: Undergraduate student - Computer Science and Engineering
+- 🐦 A newbie Swift committer
 - :man_technologist: OSS contributor - [Swift](https://github.com/apple/swift), [LLVM](http://llvm.org/) and etc.
 - :wrench: Co-maintainer of [SwiftWasm](http://github.com/swiftwasm/)
 
