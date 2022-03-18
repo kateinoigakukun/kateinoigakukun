@@ -1,7 +1,6 @@
 
 - Undergraduate student - Computer Science and Engineering
-- A newbie Swift committer
-- OSS contributor - [Swift](https://github.com/apple/swift), [LLVM](http://llvm.org/) and etc.
+- A newbie Swift and Ruby committer
 - Co-maintainer of [SwiftWasm](http://github.com/swiftwasm/)
 
 
@@ -11,7 +10,6 @@
 - iOS application
 - WebAssembly
 - Compiler
-
 
 ## Contact
 
