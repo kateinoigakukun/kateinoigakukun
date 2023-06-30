@@ -1,5 +1,5 @@
 
-- Undergraduate student - Computer Science and Engineering
+- Graduate student - Computer Science and Engineering
 - A newbie Swift and Ruby committer
 - Co-maintainer of [SwiftWasm](http://github.com/swiftwasm/)
 
